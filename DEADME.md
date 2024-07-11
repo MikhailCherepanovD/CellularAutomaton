@@ -18,10 +18,14 @@ python main.py
 
 My option:
 
-![]()
+<p align="center">
+<img src="https://github.com/MikhailCherepanovD/CellularAutomaton/blob/master/GitHubResources/KAMyVar.gif" alt="" width="500"/>
+</p>
 
 Game of life:
+<p align="center">
+<img src="https://github.com/MikhailCherepanovD/CellularAutomaton/blob/master/GitHubResources/KALife.gif" alt="" width="500"/>
+</p>
 
-![]()
 
-### Documentation in Russian: ![here]()
+### Documentation in Russian: [here](https://github.com/MikhailCherepanovD/CellularAutomaton/blob/master/GitHubResources/Documentation.pdf)
