@@ -68,8 +68,8 @@ class Matrix:
 
     def run_one_takt_roles(self):
         matrix = copy.deepcopy(self.matrix)
-        for i in range(1,self.n-1):
-            for j in range(1,self.n-1):
+        for i in range(0,self.n):
+            for j in range(0,self.n):
                 amount = self.get_value_neighbors_fon_neiman(i, j)
                 matrix[i][j] = vector_roles[amount]
         self.matrix = matrix

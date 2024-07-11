@@ -10,11 +10,11 @@ if flag_manual_mode!=False:
 else:
     grid_colors = [[ WHITE if random.randint(0, 1)==1 else BLACK for _ in range(size_grid)]
                    for _ in range(size_grid)]
-    for i in range(size_grid):
-        grid_colors[0][i] = WHITE
-        grid_colors[size_grid-1][i] = WHITE
-        grid_colors[i][0] = WHITE
-        grid_colors[i][size_grid-1] = WHITE
+    # for i in range(size_grid):
+    #     grid_colors[0][i] = WHITEа
+    #     grid_colors[size_grid-1][i] = WHITE
+    #     grid_colors[i][0] = WHITE
+    #     grid_colors[i][size_grid-1] = WHITE
 
 started=True
 running = True
@@ -44,7 +44,7 @@ while running:
                 print("Позиция мыши внутри зеленого эллипса")
                 while help_counter<8:
                     #help_counter+=1
-                    matrix_obj.run_one_takt_roles()
+                    matrix_obj.run_one_takt_life()  #run_one_takt_roles()
                     grid_colors=[[WHITE if color == 0 else 1 for color in row] for row in  matrix_obj.matrix]
                     draw_greed(screen,grid_colors)
                     time.sleep(pause)
