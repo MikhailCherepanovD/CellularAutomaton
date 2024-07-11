@@ -23,9 +23,11 @@ My option:
 </p>
 
 Game of life:
+
 <p align="center">
 <img src="https://github.com/MikhailCherepanovD/CellularAutomaton/blob/master/GitHubResources/KALife.gif" alt="" width="150"/>
 </p>
 
 
-### Documentation in Russian: [here](https://github.com/MikhailCherepanovD/CellularAutomaton/blob/master/GitHubResources/Documentation.pdf)
+#### Documentation in Russian: 
+[here](https://github.com/MikhailCherepanovD/CellularAutomaton/blob/master/GitHubResources/Documentation.pdf)
