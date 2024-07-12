@@ -19,12 +19,12 @@ python main.py
 My option:
 
 <p align="center">
-<img src="https://github.com/MikhailCherepanovD/CellularAutomaton/blob/master/GitHubResources/KAMyVar.gif" alt="" width="500"/>
+<img src="https://github.com/MikhailCherepanovD/CellularAutomaton/blob/master/GitHubResources/KAMyVar.gif" alt="" width="300"/>
 </p>
 
 Game of life:
 <p align="center">
-<img src="https://github.com/MikhailCherepanovD/CellularAutomaton/blob/master/GitHubResources/KALife.gif" alt="" width="500"/>
+<img src="https://github.com/MikhailCherepanovD/CellularAutomaton/blob/master/GitHubResources/KALife.gif" alt="" width="300"/>
 </p>
 
 
